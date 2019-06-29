@@ -1,0 +1,15 @@
+.menu-sidebar{
+    width: 250px;
+    position: fixed;
+    background-color: rgb(39,39,39);
+    height: 100%;
+}
+
+#items {
+    padding: 10px;
+}
+
+#icon-content:hover {
+    color: red;
+    cursor: pointer;
+}
